@@ -7,9 +7,10 @@
 
 **negrita**
 
-`resaltado`
+este es un texto `resaltado`
 
 _italic_
+
 
 ```yaml
 test: 123
@@ -18,13 +19,12 @@ list:
     num: 456
 ```
 
-
 ```sh
 ls -la
 cd ..
 curl localhost
 ```
 
-# titulo 2 
-david morales chinchilla
-integracion y despliegue continuo
+# titulo 2
+carlos chacon calvo
+Integración y despliegue continuo
